@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "unakku thaan",
+      "thumbnail": "https://i.ytimg.com/vi/bui3q02NK8Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y"
+    },
+    {
+      "id": "2",
+      "caption": "Chaleya",
+      "thumbnail": "https://i.ytimg.com/vi/LHEU3tE_biU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3",
+      "categoryName": "Movie Songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Chaleya",
+          "thumbnail": "https://i.ytimg.com/vi/LHEU3tE_biU/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+        },
+        {
+          "id": "1",
+          "caption": "unakku thaan",
+          "thumbnail": "https://i.ytimg.com/vi/bui3q02NK8Y/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/bui3q02NK8Y"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "unakku thaan",
+          "thumbnail": "https://i.ytimg.com/vi/bui3q02NK8Y/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/bui3q02NK8Y"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": "1",
+      "caption": "Chaleya",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "19/12/2023"
+    },
+    {
+      "id": "709bfa76-ee1d-4eac-b925-04239c8abf4d",
+      "caption": "Chaleya",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-20T04:50:30.547Z"
+    },
+    {
+      "id": "b4a4f81c-d6bb-4d89-9f13-b82395efca21",
+      "caption": "unakku thaan",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "2023-12-20T04:50:47.346Z"
+    },
+    {
+      "id": "1dcea514-0b39-486a-8ce8-39197f0fc894",
+      "caption": "unakku thaan",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "2023-12-20T06:28:49.925Z"
+    },
+    {
+      "id": "f0284351-7405-488e-a6c3-93aa29b2c4c7",
+      "caption": "Chaleya",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-21T03:42:10.349Z"
+    },
+    {
+      "id": "b627468d-9980-43df-943f-120e25f5faeb",
+      "caption": "unakku thaan",
+      "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "date": "2023-12-21T03:57:01.645Z"
+    },
+    {
+      "id": "a609d0ae-4000-4337-8628-2c504fd88f27",
+      "caption": "Chaleya",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-21T04:04:41.109Z"
+    },
+    {
+      "id": "f102b2ca-aff7-43dd-9140-9a41b43501a6",
+      "caption": "Chaleya",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-12-21T04:07:55.908Z"
+    }
+  ]
+}
